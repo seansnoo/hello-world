@@ -14,7 +14,7 @@
 ## Third Flag
 * Low/orbit
 * located in /home/airmanjoe/'spaces in this filename'
-	* Used cat \'91spaces then tabbed to auto complete filename.
+	* Used cat 'spaces then tabbed to auto complete filename.
 
 ## Fourth Flag 
 * calamity-zebra
